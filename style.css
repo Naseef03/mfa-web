@@ -45,6 +45,34 @@ a {
 
 /* Header end */
 
+/* First div */
 
+.one {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+  padding: 100px 200px;
+  background-color: #1f2937;
+}
 
+.one img {
+  width: 50%;
+  height: auto;
+}
+
+.awesome h2 {
+  font-size: 48px;
+  font-weight: bold;
+  color: #f9faf8;
+  margin: 0;
+}
+
+.awesome p {
+  margin: 0 0 16px 0;
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+/* End */
 
