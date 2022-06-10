@@ -160,3 +160,16 @@ a {
 .action button {
   border-color: #f9faf8;
 }
+
+/* End */
+
+/* Footer */
+
+.footer {
+  background-color: #1f2937;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  color: #e5e7eb;
+}
