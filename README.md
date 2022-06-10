@@ -8,6 +8,4 @@ This is a project given as part of [The Odin Project](https://www.theodinproject
 
 ## Credits
 Idea - [The Odin Project](https://www.theodinproject.com/)
-
-Photos:
-  - [Burning Land](https://www.pexels.com/photo/iceland-nature-space-dark-7267852/)
+[Burning Land](https://www.pexels.com/photo/iceland-nature-space-dark-7267852/) Photo
