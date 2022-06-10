@@ -76,3 +76,37 @@ a {
 
 /* End */
 
+/* Second div */
+
+.two {
+  display: flex;
+  flex-direction: column;
+  padding: 40px 200px;
+  align-items: center;
+  text-align: center;
+}
+
+.iln-co {
+  display: flex;
+  gap: 40px;
+}
+
+.iln {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  width: 150px;
+}
+
+.iln div {
+  width: 150px;
+  height: 150px;
+  border: 3px solid #3882f6;
+  border-radius: 8px;
+}
+
+/* End */
+
+
+
